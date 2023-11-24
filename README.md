@@ -1,6 +1,8 @@
-# S5_gestion_stock_rectified
+# S5_gestion_stock_rectified 
 
-projet de gestion de projet effectué en s5 
+technologie `spring boot`
+
+projet de gestion de projet effectué en `semestre 5`
 
 ### ce projet contient 
 * un acces à un état de stock selon le formulaire
