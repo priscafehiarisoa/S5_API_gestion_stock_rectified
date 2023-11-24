@@ -13,3 +13,6 @@ projet de gestion de projet effectué en s5
 ### principe du projet
 pour une sortie de stock on utilise le principe de fifo first in first out et lifo last in last out 
 une sortie de stock peut donc etre divisé selon les differentes entrée du stock 
+
+voici la partie front end du projet 
+ [https://github.com/priscafehiarisoa/s5_react_gestion_stock.git]
